@@ -1,7 +1,7 @@
 +++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
@@ -18,27 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Scientist II"
+  company = "Celsius Therapeutics"
+  company_url = "http://www.celsiustx.com"
+  location = "Cambridge, MA"
+  date_start = "2019-11-11"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = []
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Biological Data Science Lead"
+  company = "Asimov"
+  company_url = "www.asimov.io"
+  location = "Cambridge, MA"
+  date_start = "2018-08-01"
+  date_end = "2019-10-31"
+  description = []
+
+
+[[experience]]
+  title = "Computational Scientist"
+  company = "Broad Institute"
+  company_url = "www.broadinstitute.org"
+  location = "Cambridge, MA"
+  date_start = "2018-05-01"
+  date_end = "2018-08-01"
+  description = []
+
+[[experience]]
+  title = "Senior Computational Associate"
+  company = "Broad Institute"
+  company_url = "www.broadinstitute.org"
+  location = "Cambridge, MA"
+  date_start = "2017-05-01"
+  date_end = "2018-05-01"
+  description = []
+
+[[experience]]
+  title = "Associate Computational Biologist"
+  company = "Broad Institute"
+  company_url = "www.broadinstitute.org"
+  location = "Cambridge, MA"
+  date_start = "2015-05-01"
+  date_end = "2017-05-01"
+  description = []
 
 +++
