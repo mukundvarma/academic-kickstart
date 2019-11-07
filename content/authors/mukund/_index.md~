@@ -2,6 +2,7 @@
 # Display name
 name: Mukund Varma
 
+image: static/img/mukund.png
 # Username (this should match the folder name)
 authors:
 - mukund

@@ -31,7 +31,7 @@ interests:
 education:
   courses:
   - course: S.M. in Physics
-    institution: MIT
+    institution: Massachusetts Institute of Technology
     year: 2015
   - course: B.Tech in Engineering Physics
     institution: Indian Institute of Technology

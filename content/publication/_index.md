@@ -1,15 +1,6 @@
 ---
+date: "2019-01-01T00:00:00Z"
+summary: "Recent and all publications"
 title: Publications
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 4
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+type: widget_page
 ---
